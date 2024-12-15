@@ -10,7 +10,7 @@ This project is a [GitHub Pages](https://pages.github.com/) site that provides b
 
 To set up this project locally, follow these steps:
 
-1. **Clone the repository**:
+1. **Clone the repository**
     ```sh
     git clone https://github.com/muraliv030/muraliv030.github.io.git
     ```
