@@ -18,3 +18,4 @@ To set up this project locally, follow these steps:
     ```sh
     cd muraliv030.github.io
     ```
+3. Set up a GitHub Action to automatically trigger deployment whenever there is a push.
